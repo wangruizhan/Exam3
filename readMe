@@ -1,0 +1,5 @@
+运行第3题题需执行下列命令
+cd Sina
+mvn clean
+mvn compile
+mvn exec:java -Dexec.mainClass="com.hand.Sina.App"
